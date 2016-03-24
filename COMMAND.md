@@ -1,3 +1,3 @@
 new command
 
-new test command
+new test command!
